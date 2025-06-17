@@ -123,7 +123,7 @@ if not st.session_state['logged_in']:
     st.stop()
 else:
     # Logout button
-    if st.button("Uitloggen"):
+    if st.button("Uitloggen", key="logout_button"):
         st.session_state['logged_in'] = False
         st.experimental_rerun()
 
@@ -198,7 +198,7 @@ elif page == "Profiel":
                 st.error("Wachtwoorden komen niet overeen.")
 
 elif page == "Uitloggen":
-    if st.button("Uitloggen"):
+    if st.button("Uitloggen", key="logout_button"):
         st.session_state['logged_in'] = False
         st.experimental_rerun()
 
