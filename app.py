@@ -5,6 +5,7 @@ from PIL import Image
 import io
 from logger import logger
 import os
+import re
 
 # Page config
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -60,7 +61,55 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-# Branding/logo bovenaan
+# Check if user is logged in
+if 'logged_in' not in st.session_state:
+    st.session_state['logged_in'] = False
+
+# Simpele email validatie
+EMAIL_REGEX = r"[^@]+@[^@]+\.[^@]+"
+
+def is_valid_email(email):
+    return re.match(EMAIL_REGEX, email)
+
+if not st.session_state['logged_in']:
+    # Simple Login/Registration System
+    st.subheader("Login/Registratie")
+    login_or_register = st.radio("Kies een optie", ["Login", "Registratie"])
+
+    with st.container():
+        st.markdown('<div class="card">', unsafe_allow_html=True)
+        if login_or_register == "Login":
+            with st.form("login_form"):
+                st.markdown("### Login")
+                email = st.text_input("E-mailadres")
+                password = st.text_input("Wachtwoord", type="password")
+                login_submitted = st.form_submit_button("Inloggen")
+                if login_submitted:
+                    if not is_valid_email(email):
+                        st.error("Voer een geldig e-mailadres in.")
+                    # Simuleer login logic
+                    elif email == "admin@admin.nl" and password == "password":
+                        st.success("Ingelogd als admin")
+                        st.session_state['logged_in'] = True
+                        st.experimental_rerun()
+                    else:
+                        st.error("Ongeldig e-mailadres of wachtwoord")
+        else:
+            with st.form("register_form"):
+                st.markdown("### Registratie")
+                new_email = st.text_input("E-mailadres")
+                new_password = st.text_input("Nieuw Wachtwoord", type="password")
+                register_submitted = st.form_submit_button("Registreren")
+                if register_submitted:
+                    if not is_valid_email(new_email):
+                        st.error("Voer een geldig e-mailadres in.")
+                    else:
+                        # Simuleer registratie logic
+                        st.success(f"Geregistreerd als {new_email}")
+        st.markdown('</div>', unsafe_allow_html=True)
+    st.stop()
+
+# Branding/logo bovenaan NA login
 st.image(logo_path, width=320)
 
 # Header
@@ -85,47 +134,6 @@ st.markdown("""
     }
     </style>
     """, unsafe_allow_html=True)
-
-# Check if user is logged in
-if 'logged_in' not in st.session_state:
-    st.session_state['logged_in'] = False
-
-if not st.session_state['logged_in']:
-    # Simple Login/Registration System
-    st.subheader("Login/Registratie")
-    login_or_register = st.radio("Kies een optie", ["Login", "Registratie"])
-
-    with st.container():
-        st.markdown('<div class="card">', unsafe_allow_html=True)
-        if login_or_register == "Login":
-            with st.form("login_form"):
-                st.markdown("### Login")
-                username = st.text_input("Gebruikersnaam")
-                password = st.text_input("Wachtwoord", type="password")
-                login_submitted = st.form_submit_button("Inloggen")
-                if login_submitted:
-                    # Simulate login logic
-                    if username == "admin" and password == "password":
-                        st.success("Ingelogd als admin")
-                        st.session_state['logged_in'] = True
-                    else:
-                        st.error("Ongeldige gebruikersnaam of wachtwoord")
-        else:
-            with st.form("register_form"):
-                st.markdown("### Registratie")
-                new_username = st.text_input("Nieuwe Gebruikersnaam")
-                new_password = st.text_input("Nieuw Wachtwoord", type="password")
-                register_submitted = st.form_submit_button("Registreren")
-                if register_submitted:
-                    # Simulate registration logic
-                    st.success(f"Geregistreerd als {new_username}")
-        st.markdown('</div>', unsafe_allow_html=True)
-    st.stop()
-else:
-    # Logout button
-    if st.button("Uitloggen", key="logout_button"):
-        st.session_state['logged_in'] = False
-        st.experimental_rerun()
 
 # Navigation Menu
 st.sidebar.title("Menu")
@@ -192,13 +200,15 @@ elif page == "Profiel":
         confirm_password = st.text_input("Bevestig Wachtwoord", type="password")
         submit = st.form_submit_button("Wijzigingen Opslaan")
         if submit:
-            if new_password == confirm_password:
+            if not is_valid_email(email):
+                st.error("Voer een geldig e-mailadres in.")
+            elif new_password == confirm_password:
                 st.success("Profielgegevens bijgewerkt.")
             else:
                 st.error("Wachtwoorden komen niet overeen.")
 
 elif page == "Uitloggen":
-    if st.button("Uitloggen", key="logout_button"):
+    if st.button("Uitloggen", key="logout_button_menu"):
         st.session_state['logged_in'] = False
         st.experimental_rerun()
 
