@@ -127,55 +127,69 @@ else:
         st.session_state['logged_in'] = False
         st.experimental_rerun()
 
-# File uploader
-image_type = st.radio(
-    "Selecteer type afbeelding",
-    ["pasfoto", "handtekening", "bedrijfslogo"],
-    horizontal=False
-)
-logger.debug(f"Geselecteerd afbeeldingstype: {image_type}")
+# Navigation Menu
+st.sidebar.title("Menu")
+page = st.sidebar.radio("Navigeer naar", ["Tool", "Profiel", "Uitloggen"])
 
-uploaded_file = st.file_uploader(
-    "Upload uw afbeelding",
-    type=["jpg", "jpeg", "png"],
-    help="Ondersteunde formaten: JPG, JPEG, PNG"
-)
+if page == "Tool":
+    # File uploader
+    image_type = st.radio(
+        "Selecteer type afbeelding",
+        ["pasfoto", "handtekening", "bedrijfslogo"],
+        horizontal=False
+    )
+    logger.debug(f"Geselecteerd afbeeldingstype: {image_type}")
 
-if uploaded_file is not None:
-    logger.info(f"Bestand geüpload: {uploaded_file.name}")
-    
-    # Process the image
-    result = process_upload(uploaded_file, image_type)
-    
-    if result['success']:
-        # Display original and resized dimensions
-        col1, col2 = st.columns(2)
-        with col1:
-            st.metric("Originele afmetingen", f"{result['orig_size'][0]} x {result['orig_size'][1]} pixels")
-        with col2:
-            st.metric("Nieuwe afmetingen", f"{result['resized_size'][0]} x {result['resized_size'][1]} pixels")
+    uploaded_file = st.file_uploader(
+        "Upload uw afbeelding",
+        type=["jpg", "jpeg", "png"],
+        help="Ondersteunde formaten: JPG, JPEG, PNG"
+    )
+
+    if uploaded_file is not None:
+        logger.info(f"Bestand geüpload: {uploaded_file.name}")
         
-        # Display requirements
-        st.info(f"Minimale afmetingen: {result['min_size'][0]} x {result['min_size'][1]} pixels\n"
-                f"Maximale afmetingen: {result['max_size'][0]} x {result['max_size'][1]} pixels")
+        # Process the image
+        result = process_upload(uploaded_file, image_type)
         
-        # Display preview
-        st.subheader("Voorbeeld")
-        img_bytes = io.BytesIO()
-        result['image'].save(img_bytes, format='PNG')
-        st.image(img_bytes, width=result['resized_size'][0])
-        
-        # Download button
-        st.download_button(
-            label="Download geresizede afbeelding",
-            data=img_bytes.getvalue(),
-            file_name=f"resized_{uploaded_file.name}",
-            mime="image/png"
-        )
-        logger.info(f"Afbeelding succesvol verwerkt en weergegeven: {uploaded_file.name}")
-    else:
-        st.error(f"Fout bij verwerken: {result['error']}")
-        logger.error(f"Fout bij verwerken {uploaded_file.name}: {result['error']}")
+        if result['success']:
+            # Display original and resized dimensions
+            col1, col2 = st.columns(2)
+            with col1:
+                st.metric("Originele afmetingen", f"{result['orig_size'][0]} x {result['orig_size'][1]} pixels")
+            with col2:
+                st.metric("Nieuwe afmetingen", f"{result['resized_size'][0]} x {result['resized_size'][1]} pixels")
+            
+            # Display requirements
+            st.info(f"Minimale afmetingen: {result['min_size'][0]} x {result['min_size'][1]} pixels\n"
+                    f"Maximale afmetingen: {result['max_size'][0]} x {result['max_size'][1]} pixels")
+            
+            # Display preview
+            st.subheader("Voorbeeld")
+            img_bytes = io.BytesIO()
+            result['image'].save(img_bytes, format='PNG')
+            st.image(img_bytes, width=result['resized_size'][0])
+            
+            # Download button
+            st.download_button(
+                label="Download geresizede afbeelding",
+                data=img_bytes.getvalue(),
+                file_name=f"resized_{uploaded_file.name}",
+                mime="image/png"
+            )
+            logger.info(f"Afbeelding succesvol verwerkt en weergegeven: {uploaded_file.name}")
+        else:
+            st.error(f"Fout bij verwerken: {result['error']}")
+            logger.error(f"Fout bij verwerken {uploaded_file.name}: {result['error']}")
+
+elif page == "Profiel":
+    st.subheader("Profiel")
+    st.write("Hier kunt u uw profielgegevens bekijken en bewerken.")
+
+elif page == "Uitloggen":
+    if st.button("Uitloggen"):
+        st.session_state['logged_in'] = False
+        st.experimental_rerun()
 
 # Footer
 st.markdown("---")
