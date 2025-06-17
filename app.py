@@ -50,6 +50,13 @@ st.markdown("""
     /* Hand-cursor voor selectbox */
     .stSelectbox [data-baseweb="select"] {cursor: pointer;}
     .stSelectbox [data-baseweb="select"]:hover {cursor: pointer;}
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+        background-color: #f9f9f9;
+    }
     </style>
     """, unsafe_allow_html=True)
 
@@ -66,27 +73,48 @@ st.markdown("""
     *Let op: deze tool is alleen bedoeld voor het aanpassen van afbeeldingen voor de ATK-aanvragen voor de WPBR.*
     """,)
     
+# Custom CSS for card-like block
+st.markdown("""
+    <style>
+    .card {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+        background-color: #f9f9f9;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
 # Simple Login/Registration System
 st.subheader("Login/Registratie")
-with st.form("login_form"):
-    username = st.text_input("Gebruikersnaam")
-    password = st.text_input("Wachtwoord", type="password")
-    login_submitted = st.form_submit_button("Inloggen")
-    if login_submitted:
-        # Simulate login logic
-        if username == "admin" and password == "password":
-            st.success("Ingelogd als admin")
-            st.session_state['logged_in'] = True
-        else:
-            st.error("Ongeldige gebruikersnaam of wachtwoord")
+login_or_register = st.radio("Kies een optie", ["Login", "Registratie"])
 
-with st.form("register_form"):
-    new_username = st.text_input("Nieuwe Gebruikersnaam")
-    new_password = st.text_input("Nieuw Wachtwoord", type="password")
-    register_submitted = st.form_submit_button("Registreren")
-    if register_submitted:
-        # Simulate registration logic
-        st.success(f"Geregistreerd als {new_username}")
+with st.container():
+    st.markdown('<div class="card">', unsafe_allow_html=True)
+    if login_or_register == "Login":
+        with st.form("login_form"):
+            st.markdown("### Login")
+            username = st.text_input("Gebruikersnaam")
+            password = st.text_input("Wachtwoord", type="password")
+            login_submitted = st.form_submit_button("Inloggen")
+            if login_submitted:
+                # Simulate login logic
+                if username == "admin" and password == "password":
+                    st.success("Ingelogd als admin")
+                    st.session_state['logged_in'] = True
+                else:
+                    st.error("Ongeldige gebruikersnaam of wachtwoord")
+    else:
+        with st.form("register_form"):
+            st.markdown("### Registratie")
+            new_username = st.text_input("Nieuwe Gebruikersnaam")
+            new_password = st.text_input("Nieuw Wachtwoord", type="password")
+            register_submitted = st.form_submit_button("Registreren")
+            if register_submitted:
+                # Simulate registration logic
+                st.success(f"Geregistreerd als {new_username}")
+    st.markdown('</div>', unsafe_allow_html=True)
 
 # Check if user is logged in
 if 'logged_in' not in st.session_state:
