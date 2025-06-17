@@ -89,7 +89,6 @@ if not st.session_state['logged_in']:
                         st.error("Voer een geldig e-mailadres in.")
                     # Simuleer login logic
                     elif email == "admin@admin.nl" and password == "password":
-                        st.success("Ingelogd als admin")
                         st.session_state['logged_in'] = True
                         st.experimental_rerun()
                     else:
@@ -208,6 +207,8 @@ elif page == "Profiel":
                 st.error("Wachtwoorden komen niet overeen.")
 
 elif page == "Uitloggen":
+    st.subheader("Uitloggen")
+    st.write("Klik hieronder om uit te loggen.")
     if st.button("Uitloggen", key="logout_button_menu"):
         st.session_state['logged_in'] = False
         st.experimental_rerun()
