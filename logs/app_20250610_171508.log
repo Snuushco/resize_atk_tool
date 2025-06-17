@@ -1,0 +1,23 @@
+2025-06-10 17:15:08,018 - INFO - Applicatie gestart
+2025-06-10 17:17:58,314 - INFO - Applicatie gestart
+2025-06-10 17:17:58,438 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:18:05,027 - INFO - Applicatie gestart
+2025-06-10 17:18:05,066 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:18:05,068 - INFO - Bestand geüpload: Pasfoto Wiep.png
+2025-06-10 17:18:05,069 - INFO - Start verwerking upload: Pasfoto Wiep.png (type: pasfoto)
+2025-06-10 17:18:05,070 - DEBUG - Originele afmetingen: (453, 606)
+2025-06-10 17:18:05,070 - DEBUG - Start validatie en resizing voor Pasfoto Wiep.png (type: pasfoto)
+2025-06-10 17:18:05,070 - DEBUG - Afbeelding succesvol geladen: Pasfoto Wiep.png
+2025-06-10 17:18:05,071 - DEBUG - Originele afmetingen: 453x606
+2025-06-10 17:18:05,071 - INFO - Upload succesvol verwerkt: Pasfoto Wiep.png
+2025-06-10 17:18:05,192 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Wiep.png
+2025-06-10 17:19:01,152 - INFO - Applicatie gestart
+2025-06-10 17:19:01,224 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:19:05,801 - INFO - Applicatie gestart
+2025-06-10 17:19:05,844 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-10 17:19:07,168 - INFO - Applicatie gestart
+2025-06-10 17:19:07,215 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-10 17:19:08,636 - INFO - Applicatie gestart
+2025-06-10 17:19:08,677 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:20:21,264 - INFO - Applicatie gestart
+2025-06-10 17:20:21,308 - DEBUG - Geselecteerd afbeeldingstype: pasfoto

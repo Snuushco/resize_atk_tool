@@ -1,0 +1,18 @@
+TO DO:
+- Launch
+
+DONE:
+- Bouw een simpele UI voor deze app
+- Mogelijkheid om bestanden te uploaden:
+	- Pasfoto
+	- Handtekening
+	- Bedrijfslogo
+- Korte omschrijving op pagina / UI
+- Laat oude afmetingen zien
+- Laat geresizede afmetingen zien
+- Laat voorbeeld zien in UI
+- Download-knop
+- Branding ATK-WPBR.nl
+- Privacyverklaring
+- Pixel toevoegen
+- Cookiestatement

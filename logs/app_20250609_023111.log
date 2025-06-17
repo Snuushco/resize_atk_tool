@@ -1,0 +1,142 @@
+2025-06-09 02:31:11,608 - INFO - Applicatie gestart
+2025-06-09 02:32:05,633 - INFO - Applicatie gestart
+2025-06-09 02:35:11,002 - INFO - Applicatie gestart
+2025-06-09 02:37:21,857 - INFO - Applicatie gestart
+2025-06-09 02:46:24,878 - INFO - Applicatie gestart
+2025-06-09 02:46:24,922 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:46:48,064 - INFO - Applicatie gestart
+2025-06-09 02:46:48,098 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:49:55,484 - INFO - Applicatie gestart
+2025-06-09 02:49:55,518 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:22,037 - INFO - Applicatie gestart
+2025-06-09 02:51:22,068 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:34,624 - INFO - Applicatie gestart
+2025-06-09 02:51:34,658 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:56,111 - INFO - Applicatie gestart
+2025-06-09 02:51:56,145 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:53:02,494 - INFO - Applicatie gestart
+2025-06-09 02:53:02,529 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:55:10,608 - INFO - Applicatie gestart
+2025-06-09 02:55:10,641 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:57:23,609 - INFO - Applicatie gestart
+2025-06-09 02:57:23,647 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:59:39,672 - INFO - Applicatie gestart
+2025-06-09 02:59:39,713 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:59:39,716 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,719 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 02:59:39,722 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 02:59:39,722 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 02:59:39,723 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,724 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 02:59:39,724 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,953 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,144 - INFO - Applicatie gestart
+2025-06-09 02:59:55,186 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:59:55,188 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,192 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 02:59:55,196 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 02:59:55,196 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 02:59:55,197 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,197 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 02:59:55,197 - DEBUG - Downscaling nodig: 224x287
+2025-06-09 02:59:55,206 - INFO - Afbeelding geresized van 551x704 naar 224x287
+2025-06-09 02:59:55,211 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,245 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,389 - INFO - Applicatie gestart
+2025-06-09 03:00:00,427 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 03:00:00,428 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,432 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: bedrijfslogo)
+2025-06-09 03:00:00,436 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:00,436 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: bedrijfslogo)
+2025-06-09 03:00:00,437 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,437 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:00,437 - DEBUG - Downscaling nodig: 298x382
+2025-06-09 03:00:00,445 - INFO - Afbeelding geresized van 551x704 naar 298x382
+2025-06-09 03:00:00,449 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,517 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,165 - INFO - Applicatie gestart
+2025-06-09 03:00:01,205 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 03:00:01,207 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,211 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 03:00:01,215 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:01,215 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 03:00:01,216 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,216 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:01,216 - DEBUG - Downscaling nodig: 224x287
+2025-06-09 03:00:01,225 - INFO - Afbeelding geresized van 551x704 naar 224x287
+2025-06-09 03:00:01,229 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,266 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,781 - INFO - Applicatie gestart
+2025-06-09 03:00:02,825 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:00:02,828 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,832 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:00:02,836 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:02,836 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:00:02,836 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,837 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:02,837 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:03,031 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:04:06,307 - INFO - Applicatie gestart
+2025-06-09 03:04:06,340 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:04:58,643 - INFO - Applicatie gestart
+2025-06-09 03:04:58,677 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:05:34,017 - INFO - Applicatie gestart
+2025-06-09 03:05:34,055 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:05:45,148 - INFO - Applicatie gestart
+2025-06-09 03:05:45,185 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:07:15,900 - INFO - Applicatie gestart
+2025-06-09 03:07:15,940 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:07:57,250 - INFO - Applicatie gestart
+2025-06-09 03:07:57,284 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:10:25,257 - INFO - Applicatie gestart
+2025-06-09 03:10:25,293 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:13:23,328 - INFO - Applicatie gestart
+2025-06-09 03:13:23,368 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:13:58,864 - INFO - Applicatie gestart
+2025-06-09 03:13:58,900 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:20:40,080 - INFO - Applicatie gestart
+2025-06-09 03:20:40,114 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:21:39,441 - INFO - Applicatie gestart
+2025-06-09 03:21:39,480 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:30,669 - INFO - Applicatie gestart
+2025-06-09 03:25:30,707 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:55,126 - INFO - Applicatie gestart
+2025-06-09 03:25:55,171 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:55,174 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,178 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:25:55,183 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:25:55,184 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:25:55,185 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,185 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:25:55,185 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,417 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,434 - INFO - Applicatie gestart
+2025-06-09 03:26:00,475 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:26:00,477 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,482 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:26:00,488 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:26:00,489 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:26:00,490 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,490 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:26:00,491 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,677 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:29:53,819 - INFO - Applicatie gestart
+2025-06-09 03:29:53,861 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:45:17,566 - INFO - Applicatie gestart
+2025-06-09 03:45:17,610 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:53:34,770 - INFO - Applicatie gestart
+2025-06-09 03:53:34,815 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:56:37,589 - INFO - Applicatie gestart
+2025-06-09 03:56:37,634 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:54:00,306 - INFO - Applicatie gestart
+2025-06-09 16:54:00,386 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:59:17,714 - INFO - Applicatie gestart
+2025-06-09 16:59:17,771 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:59:33,297 - INFO - Applicatie gestart
+2025-06-09 16:59:33,348 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 16:59:33,707 - INFO - Applicatie gestart
+2025-06-09 16:59:33,755 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 16:59:35,121 - INFO - Applicatie gestart
+2025-06-09 16:59:35,168 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:14:30,304 - INFO - Applicatie gestart
+2025-06-10 17:14:38,514 - INFO - Applicatie gestart

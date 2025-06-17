@@ -1,0 +1,326 @@
+2025-06-09 02:16:55,792 - INFO - Applicatie gestart
+2025-06-09 02:16:55,794 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:17:04,113 - INFO - Applicatie gestart
+2025-06-09 02:17:04,117 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:17:04,119 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:17:04,120 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:17:04,120 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:17:04,120 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:17:04,121 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:17:04,121 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:17:04,121 - DEBUG - Downscaling nodig: 418x709
+2025-06-09 02:17:04,530 - INFO - Afbeelding geresized van 2420x4096 naar 418x709
+2025-06-09 02:17:04,530 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:17:04,632 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:17:08,276 - INFO - Applicatie gestart
+2025-06-09 02:17:08,279 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:17:08,280 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:17:08,281 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:17:08,281 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:17:08,281 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:17:08,282 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:17:08,282 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:17:08,282 - DEBUG - Downscaling nodig: 225x382
+2025-06-09 02:17:08,574 - INFO - Afbeelding geresized van 2420x4096 naar 225x382
+2025-06-09 02:17:08,575 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:17:08,597 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:21:54,213 - INFO - Applicatie gestart
+2025-06-09 02:21:54,216 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:21:56,983 - INFO - Applicatie gestart
+2025-06-09 02:21:56,986 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:21:56,987 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:21:56,987 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:21:56,988 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:21:56,988 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:21:56,989 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:21:56,989 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:21:56,989 - DEBUG - Downscaling nodig: 418x709
+2025-06-09 02:21:57,209 - INFO - Afbeelding geresized van 2420x4096 naar 418x709
+2025-06-09 02:21:57,211 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:21:57,237 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:22:01,910 - INFO - Applicatie gestart
+2025-06-09 02:22:01,912 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:22:01,913 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:22:01,914 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:22:01,915 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:22:01,915 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:22:01,915 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:22:01,915 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:22:01,915 - DEBUG - Downscaling nodig: 225x382
+2025-06-09 02:22:02,114 - INFO - Afbeelding geresized van 2420x4096 naar 225x382
+2025-06-09 02:22:02,115 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:22:02,128 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:24:36,119 - INFO - Applicatie gestart
+2025-06-09 02:24:36,122 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:43,280 - INFO - Applicatie gestart
+2025-06-09 02:27:43,285 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:45,617 - INFO - Applicatie gestart
+2025-06-09 02:27:45,621 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:27:46,011 - INFO - Applicatie gestart
+2025-06-09 02:27:46,014 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:27:46,470 - INFO - Applicatie gestart
+2025-06-09 02:27:46,473 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:47,712 - INFO - Applicatie gestart
+2025-06-09 02:27:47,715 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:27:48,046 - INFO - Applicatie gestart
+2025-06-09 02:27:48,050 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:27:48,464 - INFO - Applicatie gestart
+2025-06-09 02:27:48,468 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:27:48,777 - INFO - Applicatie gestart
+2025-06-09 02:27:48,780 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:52,436 - INFO - Applicatie gestart
+2025-06-09 02:27:52,440 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:27:53,212 - INFO - Applicatie gestart
+2025-06-09 02:27:53,214 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:27:53,609 - INFO - Applicatie gestart
+2025-06-09 02:27:53,612 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:56,864 - INFO - Applicatie gestart
+2025-06-09 02:27:56,867 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:27:56,868 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:27:56,869 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:27:56,870 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:27:56,871 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:27:56,872 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:27:56,872 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:27:56,872 - DEBUG - Downscaling nodig: 418x709
+2025-06-09 02:27:57,147 - INFO - Afbeelding geresized van 2420x4096 naar 418x709
+2025-06-09 02:27:57,149 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:27:57,175 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:27:59,770 - INFO - Applicatie gestart
+2025-06-09 02:27:59,773 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:27:59,774 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:27:59,775 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:27:59,776 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:27:59,776 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:27:59,777 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:27:59,777 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:27:59,777 - DEBUG - Downscaling nodig: 169x287
+2025-06-09 02:27:59,971 - INFO - Afbeelding geresized van 2420x4096 naar 169x287
+2025-06-09 02:27:59,972 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:27:59,981 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:15,868 - INFO - Applicatie gestart
+2025-06-09 02:28:15,871 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:28:15,872 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:28:15,874 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:28:15,875 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:28:15,875 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:28:15,876 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:28:15,876 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:28:15,876 - DEBUG - Downscaling nodig: 225x382
+2025-06-09 02:28:16,064 - INFO - Afbeelding geresized van 2420x4096 naar 225x382
+2025-06-09 02:28:16,065 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:28:16,077 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:19,665 - INFO - Applicatie gestart
+2025-06-09 02:28:19,670 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:28:19,671 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:28:19,672 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:28:19,673 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:28:19,673 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:28:19,674 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:28:19,674 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:28:19,674 - DEBUG - Downscaling nodig: 169x287
+2025-06-09 02:28:19,861 - INFO - Afbeelding geresized van 2420x4096 naar 169x287
+2025-06-09 02:28:19,863 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:28:19,875 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:22,790 - INFO - Applicatie gestart
+2025-06-09 02:28:22,792 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:28:22,793 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:28:22,795 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:28:22,796 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:28:22,796 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: pasfoto)
+2025-06-09 02:28:22,797 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:28:22,797 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:28:22,797 - DEBUG - Downscaling nodig: 418x709
+2025-06-09 02:28:23,012 - INFO - Afbeelding geresized van 2420x4096 naar 418x709
+2025-06-09 02:28:23,013 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:28:23,042 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:27,814 - INFO - Applicatie gestart
+2025-06-09 02:28:27,820 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:28:27,821 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:28:27,822 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:28:27,823 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:28:27,824 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: handtekening)
+2025-06-09 02:28:27,825 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:28:27,825 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:28:27,825 - DEBUG - Downscaling nodig: 169x287
+2025-06-09 02:28:28,011 - INFO - Afbeelding geresized van 2420x4096 naar 169x287
+2025-06-09 02:28:28,012 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:28:28,023 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:34,791 - INFO - Applicatie gestart
+2025-06-09 02:28:34,794 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:28:34,795 - INFO - Bestand geüpload: Logo Praesidion Security.png
+2025-06-09 02:28:34,797 - INFO - Start verwerking upload: Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:28:34,798 - DEBUG - Originele afmetingen: (2420, 4096)
+2025-06-09 02:28:34,798 - DEBUG - Start validatie en resizing voor Logo Praesidion Security.png (type: bedrijfslogo)
+2025-06-09 02:28:34,799 - DEBUG - Afbeelding succesvol geladen: Logo Praesidion Security.png
+2025-06-09 02:28:34,799 - DEBUG - Originele afmetingen: 2420x4096
+2025-06-09 02:28:34,799 - DEBUG - Downscaling nodig: 225x382
+2025-06-09 02:28:35,004 - INFO - Afbeelding geresized van 2420x4096 naar 225x382
+2025-06-09 02:28:35,006 - INFO - Upload succesvol verwerkt: Logo Praesidion Security.png
+2025-06-09 02:28:35,020 - INFO - Afbeelding succesvol verwerkt en weergegeven: Logo Praesidion Security.png
+2025-06-09 02:28:42,364 - INFO - Applicatie gestart
+2025-06-09 02:28:42,371 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 02:28:42,372 - INFO - Bestand geüpload: Handtekening G. Bongaerts.png
+2025-06-09 02:28:42,374 - INFO - Start verwerking upload: Handtekening G. Bongaerts.png (type: bedrijfslogo)
+2025-06-09 02:28:42,375 - DEBUG - Originele afmetingen: (340, 97)
+2025-06-09 02:28:42,376 - DEBUG - Start validatie en resizing voor Handtekening G. Bongaerts.png (type: bedrijfslogo)
+2025-06-09 02:28:42,376 - DEBUG - Afbeelding succesvol geladen: Handtekening G. Bongaerts.png
+2025-06-09 02:28:42,376 - DEBUG - Originele afmetingen: 340x97
+2025-06-09 02:28:42,376 - DEBUG - Upscaling nodig: 445x127
+2025-06-09 02:28:42,380 - INFO - Afbeelding geresized van 340x97 naar 445x127
+2025-06-09 02:28:42,381 - INFO - Upload succesvol verwerkt: Handtekening G. Bongaerts.png
+2025-06-09 02:28:42,408 - INFO - Afbeelding succesvol verwerkt en weergegeven: Handtekening G. Bongaerts.png
+2025-06-09 02:28:43,669 - INFO - Applicatie gestart
+2025-06-09 02:28:43,672 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:28:43,673 - INFO - Bestand geüpload: Handtekening G. Bongaerts.png
+2025-06-09 02:28:43,675 - INFO - Start verwerking upload: Handtekening G. Bongaerts.png (type: handtekening)
+2025-06-09 02:28:43,676 - DEBUG - Originele afmetingen: (340, 97)
+2025-06-09 02:28:43,676 - DEBUG - Start validatie en resizing voor Handtekening G. Bongaerts.png (type: handtekening)
+2025-06-09 02:28:43,676 - DEBUG - Afbeelding succesvol geladen: Handtekening G. Bongaerts.png
+2025-06-09 02:28:43,676 - DEBUG - Originele afmetingen: 340x97
+2025-06-09 02:28:43,676 - DEBUG - Upscaling nodig: 378x108
+2025-06-09 02:28:43,678 - INFO - Afbeelding geresized van 340x97 naar 378x108
+2025-06-09 02:28:43,680 - INFO - Upload succesvol verwerkt: Handtekening G. Bongaerts.png
+2025-06-09 02:28:43,691 - INFO - Afbeelding succesvol verwerkt en weergegeven: Handtekening G. Bongaerts.png
+2025-06-09 02:31:11,608 - INFO - Applicatie gestart
+2025-06-09 02:32:05,633 - INFO - Applicatie gestart
+2025-06-09 02:35:11,002 - INFO - Applicatie gestart
+2025-06-09 02:37:21,857 - INFO - Applicatie gestart
+2025-06-09 02:46:24,878 - INFO - Applicatie gestart
+2025-06-09 02:46:24,922 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:46:48,064 - INFO - Applicatie gestart
+2025-06-09 02:46:48,098 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:49:55,484 - INFO - Applicatie gestart
+2025-06-09 02:49:55,518 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:22,037 - INFO - Applicatie gestart
+2025-06-09 02:51:22,068 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:34,624 - INFO - Applicatie gestart
+2025-06-09 02:51:34,658 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:51:56,111 - INFO - Applicatie gestart
+2025-06-09 02:51:56,145 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:53:02,494 - INFO - Applicatie gestart
+2025-06-09 02:53:02,529 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:55:10,608 - INFO - Applicatie gestart
+2025-06-09 02:55:10,641 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:57:23,609 - INFO - Applicatie gestart
+2025-06-09 02:57:23,647 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:59:39,672 - INFO - Applicatie gestart
+2025-06-09 02:59:39,713 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 02:59:39,716 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,719 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 02:59:39,722 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 02:59:39,722 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 02:59:39,723 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,724 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 02:59:39,724 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:39,953 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,144 - INFO - Applicatie gestart
+2025-06-09 02:59:55,186 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 02:59:55,188 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,192 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 02:59:55,196 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 02:59:55,196 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 02:59:55,197 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,197 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 02:59:55,197 - DEBUG - Downscaling nodig: 224x287
+2025-06-09 02:59:55,206 - INFO - Afbeelding geresized van 551x704 naar 224x287
+2025-06-09 02:59:55,211 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 02:59:55,245 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,389 - INFO - Applicatie gestart
+2025-06-09 03:00:00,427 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 03:00:00,428 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,432 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: bedrijfslogo)
+2025-06-09 03:00:00,436 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:00,436 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: bedrijfslogo)
+2025-06-09 03:00:00,437 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,437 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:00,437 - DEBUG - Downscaling nodig: 298x382
+2025-06-09 03:00:00,445 - INFO - Afbeelding geresized van 551x704 naar 298x382
+2025-06-09 03:00:00,449 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:00,517 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,165 - INFO - Applicatie gestart
+2025-06-09 03:00:01,205 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 03:00:01,207 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,211 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 03:00:01,215 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:01,215 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: handtekening)
+2025-06-09 03:00:01,216 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,216 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:01,216 - DEBUG - Downscaling nodig: 224x287
+2025-06-09 03:00:01,225 - INFO - Afbeelding geresized van 551x704 naar 224x287
+2025-06-09 03:00:01,229 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:01,266 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,781 - INFO - Applicatie gestart
+2025-06-09 03:00:02,825 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:00:02,828 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,832 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:00:02,836 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:00:02,836 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:00:02,836 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:02,837 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:00:02,837 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:00:03,031 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:04:06,307 - INFO - Applicatie gestart
+2025-06-09 03:04:06,340 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:04:58,643 - INFO - Applicatie gestart
+2025-06-09 03:04:58,677 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:05:34,017 - INFO - Applicatie gestart
+2025-06-09 03:05:34,055 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:05:45,148 - INFO - Applicatie gestart
+2025-06-09 03:05:45,185 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:07:15,900 - INFO - Applicatie gestart
+2025-06-09 03:07:15,940 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:07:57,250 - INFO - Applicatie gestart
+2025-06-09 03:07:57,284 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:10:25,257 - INFO - Applicatie gestart
+2025-06-09 03:10:25,293 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:13:23,328 - INFO - Applicatie gestart
+2025-06-09 03:13:23,368 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:13:58,864 - INFO - Applicatie gestart
+2025-06-09 03:13:58,900 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:20:40,080 - INFO - Applicatie gestart
+2025-06-09 03:20:40,114 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:21:39,441 - INFO - Applicatie gestart
+2025-06-09 03:21:39,480 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:30,669 - INFO - Applicatie gestart
+2025-06-09 03:25:30,707 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:55,126 - INFO - Applicatie gestart
+2025-06-09 03:25:55,171 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:25:55,174 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,178 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:25:55,183 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:25:55,184 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:25:55,185 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,185 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:25:55,185 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:25:55,417 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,434 - INFO - Applicatie gestart
+2025-06-09 03:26:00,475 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:26:00,477 - INFO - Bestand geüpload: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,482 - INFO - Start verwerking upload: Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:26:00,488 - DEBUG - Originele afmetingen: (551, 704)
+2025-06-09 03:26:00,489 - DEBUG - Start validatie en resizing voor Pasfoto Guus Bongaerts.jpg (type: pasfoto)
+2025-06-09 03:26:00,490 - DEBUG - Afbeelding succesvol geladen: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,490 - DEBUG - Originele afmetingen: 551x704
+2025-06-09 03:26:00,491 - INFO - Upload succesvol verwerkt: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:26:00,677 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Guus Bongaerts.jpg
+2025-06-09 03:29:53,819 - INFO - Applicatie gestart
+2025-06-09 03:29:53,861 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:45:17,566 - INFO - Applicatie gestart
+2025-06-09 03:45:17,610 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:53:34,770 - INFO - Applicatie gestart
+2025-06-09 03:53:34,815 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 03:56:37,589 - INFO - Applicatie gestart
+2025-06-09 03:56:37,634 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:54:00,306 - INFO - Applicatie gestart
+2025-06-09 16:54:00,386 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:59:17,714 - INFO - Applicatie gestart
+2025-06-09 16:59:17,771 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-09 16:59:33,297 - INFO - Applicatie gestart
+2025-06-09 16:59:33,348 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-06-09 16:59:33,707 - INFO - Applicatie gestart
+2025-06-09 16:59:33,755 - DEBUG - Geselecteerd afbeeldingstype: bedrijfslogo
+2025-06-09 16:59:35,121 - INFO - Applicatie gestart
+2025-06-09 16:59:35,168 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-06-10 17:14:30,304 - INFO - Applicatie gestart
+2025-06-10 17:14:38,514 - INFO - Applicatie gestart
