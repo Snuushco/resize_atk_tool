@@ -116,14 +116,35 @@ if uploaded_file is not None:
         st.error(f"Fout bij verwerken: {result['error']}")
         logger.error(f"Fout bij verwerken {uploaded_file.name}: {result['error']}")
 
-# User Information Form
-st.subheader("Gebruikersgegevens")
-with st.form("user_info_form"):
-    name = st.text_input("Naam")
-    email = st.text_input("E-mail")
-    submitted = st.form_submit_button("Verstuur")
-    if submitted:
-        st.write(f"Bedankt, {name}! We hebben je gegevens ontvangen.")
+# Simple Login/Registration System
+st.subheader("Login/Registratie")
+with st.form("login_form"):
+    username = st.text_input("Gebruikersnaam")
+    password = st.text_input("Wachtwoord", type="password")
+    login_submitted = st.form_submit_button("Inloggen")
+    if login_submitted:
+        # Simulate login logic
+        if username == "admin" and password == "password":
+            st.success("Ingelogd als admin")
+            st.session_state['logged_in'] = True
+        else:
+            st.error("Ongeldige gebruikersnaam of wachtwoord")
+
+with st.form("register_form"):
+    new_username = st.text_input("Nieuwe Gebruikersnaam")
+    new_password = st.text_input("Nieuw Wachtwoord", type="password")
+    register_submitted = st.form_submit_button("Registreren")
+    if register_submitted:
+        # Simulate registration logic
+        st.success(f"Geregistreerd als {new_username}")
+
+# Check if user is logged in
+if 'logged_in' not in st.session_state:
+    st.session_state['logged_in'] = False
+
+if not st.session_state['logged_in']:
+    st.warning("Log in om de tool te gebruiken.")
+    st.stop()
 
 # Footer
 st.markdown("---")
