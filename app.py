@@ -129,9 +129,9 @@ else:
 
 # Navigation Menu
 st.sidebar.title("Menu")
-page = st.sidebar.radio("Navigeer naar", ["Tool", "Profiel", "Uitloggen"])
+page = st.sidebar.radio("Navigeer naar", ["Resize Tool", "Profiel", "Uitloggen"])
 
-if page == "Tool":
+if page == "Resize Tool":
     # File uploader
     image_type = st.radio(
         "Selecteer type afbeelding",
@@ -185,6 +185,17 @@ if page == "Tool":
 elif page == "Profiel":
     st.subheader("Profiel")
     st.write("Hier kunt u uw profielgegevens bekijken en bewerken.")
+    
+    with st.form("profile_form"):
+        email = st.text_input("E-mailadres")
+        new_password = st.text_input("Nieuw Wachtwoord", type="password")
+        confirm_password = st.text_input("Bevestig Wachtwoord", type="password")
+        submit = st.form_submit_button("Wijzigingen Opslaan")
+        if submit:
+            if new_password == confirm_password:
+                st.success("Profielgegevens bijgewerkt.")
+            else:
+                st.error("Wachtwoorden komen niet overeen.")
 
 elif page == "Uitloggen":
     if st.button("Uitloggen"):
