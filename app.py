@@ -116,6 +116,15 @@ if uploaded_file is not None:
         st.error(f"Fout bij verwerken: {result['error']}")
         logger.error(f"Fout bij verwerken {uploaded_file.name}: {result['error']}")
 
+# User Information Form
+st.subheader("Gebruikersgegevens")
+with st.form("user_info_form"):
+    name = st.text_input("Naam")
+    email = st.text_input("E-mail")
+    submitted = st.form_submit_button("Verstuur")
+    if submitted:
+        st.write(f"Bedankt, {name}! We hebben je gegevens ontvangen.")
+
 # Footer
 st.markdown("---")
 st.markdown("""
