@@ -1,0 +1,45 @@
+2025-07-16 12:46:39,157 - INFO - Applicatie gestart
+2025-07-16 12:46:39,347 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-07-16 12:47:15,062 - INFO - Applicatie gestart
+2025-07-16 12:47:15,096 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-07-16 12:47:15,097 - INFO - Bestand geüpload: Pasfoto Roy Lowis.png
+2025-07-16 12:47:15,098 - INFO - Start verwerking upload: Pasfoto Roy Lowis.png (type: pasfoto)
+2025-07-16 12:47:15,098 - DEBUG - Originele afmetingen: (287, 381)
+2025-07-16 12:47:15,098 - DEBUG - Start validatie en resizing voor Pasfoto Roy Lowis.png (type: pasfoto)
+2025-07-16 12:47:15,099 - DEBUG - Afbeelding succesvol geladen: Pasfoto Roy Lowis.png
+2025-07-16 12:47:15,099 - DEBUG - Originele afmetingen: 287x381
+2025-07-16 12:47:15,099 - INFO - Upload succesvol verwerkt: Pasfoto Roy Lowis.png
+2025-07-16 12:47:15,118 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Roy Lowis.png
+2025-07-16 12:47:50,991 - INFO - Applicatie gestart
+2025-07-16 12:47:51,030 - DEBUG - Geselecteerd afbeeldingstype: pasfoto
+2025-07-16 12:47:51,030 - INFO - Bestand geüpload: Pasfoto Roy Lowis.png
+2025-07-16 12:47:51,031 - INFO - Start verwerking upload: Pasfoto Roy Lowis.png (type: pasfoto)
+2025-07-16 12:47:51,031 - DEBUG - Originele afmetingen: (287, 381)
+2025-07-16 12:47:51,031 - DEBUG - Start validatie en resizing voor Pasfoto Roy Lowis.png (type: pasfoto)
+2025-07-16 12:47:51,032 - DEBUG - Afbeelding succesvol geladen: Pasfoto Roy Lowis.png
+2025-07-16 12:47:51,032 - DEBUG - Originele afmetingen: 287x381
+2025-07-16 12:47:51,032 - INFO - Upload succesvol verwerkt: Pasfoto Roy Lowis.png
+2025-07-16 12:47:51,059 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Roy Lowis.png
+2025-07-16 12:49:51,232 - INFO - Applicatie gestart
+2025-07-16 12:49:51,263 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-07-16 12:49:51,263 - INFO - Bestand geüpload: Pasfoto Roy Lowis.png
+2025-07-16 12:49:51,263 - INFO - Start verwerking upload: Pasfoto Roy Lowis.png (type: handtekening)
+2025-07-16 12:49:51,264 - DEBUG - Originele afmetingen: (287, 381)
+2025-07-16 12:49:51,264 - DEBUG - Start validatie en resizing voor Pasfoto Roy Lowis.png (type: handtekening)
+2025-07-16 12:49:51,265 - DEBUG - Afbeelding succesvol geladen: Pasfoto Roy Lowis.png
+2025-07-16 12:49:51,265 - DEBUG - Originele afmetingen: 287x381
+2025-07-16 12:49:51,265 - DEBUG - Upscaling nodig: 354x469
+2025-07-16 12:49:51,265 - DEBUG - Downscaling nodig: 216x287
+2025-07-16 12:49:51,269 - INFO - Afbeelding geresized van 287x381 naar 216x287
+2025-07-16 12:49:51,270 - INFO - Upload succesvol verwerkt: Pasfoto Roy Lowis.png
+2025-07-16 12:49:51,282 - INFO - Afbeelding succesvol verwerkt en weergegeven: Pasfoto Roy Lowis.png
+2025-07-16 12:49:59,811 - INFO - Applicatie gestart
+2025-07-16 12:49:59,838 - DEBUG - Geselecteerd afbeeldingstype: handtekening
+2025-07-16 12:49:59,839 - INFO - Bestand geüpload: Handtekening R. Lowis.png
+2025-07-16 12:49:59,839 - INFO - Start verwerking upload: Handtekening R. Lowis.png (type: handtekening)
+2025-07-16 12:49:59,840 - DEBUG - Originele afmetingen: (386, 108)
+2025-07-16 12:49:59,840 - DEBUG - Start validatie en resizing voor Handtekening R. Lowis.png (type: handtekening)
+2025-07-16 12:49:59,840 - DEBUG - Afbeelding succesvol geladen: Handtekening R. Lowis.png
+2025-07-16 12:49:59,840 - DEBUG - Originele afmetingen: 386x108
+2025-07-16 12:49:59,840 - INFO - Upload succesvol verwerkt: Handtekening R. Lowis.png
+2025-07-16 12:49:59,845 - INFO - Afbeelding succesvol verwerkt en weergegeven: Handtekening R. Lowis.png
